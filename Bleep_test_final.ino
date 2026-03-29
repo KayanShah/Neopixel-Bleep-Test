@@ -1,3 +1,4 @@
+// Used ChatGPT to refine comments for easier future reference
 #include <FastLED.h>
 
 #define NUM_LEDS 300
